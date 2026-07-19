@@ -1,0 +1,70 @@
+WellBuddy Core — Source-Available License
+Version 1.0 — 2026
+
+Copyright (c) 2026 Karim (github.com/Wooinxlkz)
+Contact: karimsc01t@gmail.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PERMITTED USE (FREE)
+
+Permission is hereby granted, free of charge, to any individual obtaining a
+copy of this software and associated documentation files (the "Software"), to:
+
+  1. Use the Software for personal, educational, or non-commercial projects.
+  2. Study and modify the Software for the above purposes.
+  3. Share modifications privately within a team of fewer than 3 people,
+     provided no revenue is generated from those modifications.
+
+COMMERCIAL USE — LICENSE REQUIRED
+
+Any use of this Software (modified or unmodified) that:
+
+  a. generates revenue, directly or indirectly;
+  b. is embedded in a product or service sold or offered to third parties;
+  c. is used in a SaaS, subscription, or pay-to-use platform; or
+  d. is used by an organisation with more than 2 contributors or users;
+
+requires a separate commercial license obtained by contacting the author at:
+
+  karimsc01t@gmail.com
+
+FULL APP LICENSE
+
+The full application (backend, frontend, database schema, deployment
+configuration) is a separate commercial product and is NOT covered by this
+license. To inquire about purchasing or licensing the full application,
+contact: karimsc01t@gmail.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+RESTRICTIONS
+
+You may NOT, without prior written permission from the author:
+
+  - Publish or distribute this Software or any derivative as an open-source
+    project, npm package, or public library.
+  - Sell, sublicense, or re-license this Software or any derivative.
+  - Remove or alter this license notice, copyright statement, or attribution.
+  - Claim authorship of the original Software.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DISCLAIMER
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TL;DR
+
+  ✅  Personal project?      Free.
+  ✅  Learning / studying?   Free.
+  ❌  Selling a product?     Email me first.
+  ❌  SaaS / startup?        Email me first.
+  ❌  Re-publishing as OSS?  Not allowed.
